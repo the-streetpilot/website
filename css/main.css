@@ -3363,7 +3363,7 @@ a135c5
 * ------------------------------------------------------------------- */
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 3rem;
   }
 
   .contact-infos {
@@ -3378,7 +3378,7 @@ a135c5
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 3rem;
   }
 
   .contact-infos {
@@ -3389,7 +3389,7 @@ a135c5
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 3.2rem;
   }
 
   .contact-infos {
