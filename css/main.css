@@ -1429,7 +1429,7 @@ input::-moz-focus-inner {
  * responsive:
  * pagination
  * ------------------------------------------------------------------- */
-@media screen and (max-width:600px) {
+@media screen and (max-width:480px) {
   .pgn ul {
     padding: 0 5.2rem;
   }
