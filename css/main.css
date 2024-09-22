@@ -55,7 +55,7 @@ html {
   font-size: 10px;
 }
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:480px) {
   html {
     font-size: 9.411764705882353px;
   }
